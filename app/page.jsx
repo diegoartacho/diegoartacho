@@ -22,21 +22,58 @@ export default function Home() {
       </section>
 
       <section>
-        <h2 className="text-2xl font-serif font-semibold mb-4">Talks</h2>
-        <ul className="space-y-3 list-disc list-inside">
-          <li>Generalised Spin Structures – Bari, Italy (July 2025)</li>
-          <li>A Generalisation of Spin Structures – UB, Barcelona, Spain (May 2025)</li>
-          <li>Quaternion-Kähler Manifolds – Marburg, Germany (Feb 2025)</li>
-          <li>Spin Geometry and Generalisations – UAB, Barcelona, Spain (Nov 2024)</li>
-          <li>Characteristic Classes on Homogeneous Spaces – ICL, London, UK (June 2024)</li>
-          <li>What is Spin Geometry? – KCL/UCL, London, UK (Jan 2024)</li>
-          <li>Twisted Spin Structures – Marburg, Germany (Nov 2023)</li>
-          <li>Invariant Twisted Spinors on Homogeneous Spaces – Stuttgart, Germany (Oct 2023)</li>
-          <li>Generalised Spinʳ Structures on Homogeneous Spaces – Banff, Canada (May 2023)</li>
-          <li>Tauberian Operators on Banach Spaces – Tenerife, Spain (Mar 2020)</li>
-        </ul>
-      </section>
-
+  <h2 className="text-2xl font-serif font-semibold mb-4">Talks</h2>
+  <ul className="space-y-3 list-disc list-inside">
+    <li>
+      <a href="https://sites.google.com/view/workshop-even-and-odd-dim-bari/home" className="text-blue-600 hover:underline">
+        Generalised Spin Structures – Bari, Italy (July 2025)
+      </a>
+    </li>
+    <li>
+      <a href="https://www.ub.edu/topologia/seminar.html" className="text-blue-600 hover:underline">
+        A Generalisation of Spin Structures – UB, Barcelona, Spain (May 2025)
+      </a>
+    </li>
+    <li>
+      <a href="https://sites.google.com/view/mam-iii" className="text-blue-600 hover:underline">
+        Quaternion-Kähler Manifolds – Marburg, Germany (Feb 2025)
+      </a>
+    </li>
+    <li>
+      <a href="https://mat.uab.cat/web/ligat/seminar/geometry-seminar/" className="text-blue-600 hover:underline">
+        Spin Geometry and Generalisations – UAB, Barcelona, Spain (Nov 2024)
+      </a>
+    </li>
+    <li>
+      Characteristic Classes on Homogeneous Spaces – ICL, London, UK (June 2024)
+    </li>
+    <li>
+      <a href="https://www.ucl.ac.uk/junior-geometry/" className="text-blue-600 hover:underline">
+        What is Spin Geometry? – KCL/UCL, London, UK (Jan 2024)
+      </a>
+    </li>
+    <li>
+      <a href="https://www.mathematik.uni-marburg.de/~agricola/FS.html" className="text-blue-600 hover:underline">
+        Twisted Spin Structures – Marburg, Germany (Nov 2023)
+      </a>
+    </li>
+    <li>
+      <a href="https://www.igt.uni-stuttgart.de/workshop-einstein-2023/" className="text-blue-600 hover:underline">
+        Invariant Twisted Spinors on Homogeneous Spaces – Stuttgart, Germany (Oct 2023)
+      </a>
+    </li>
+    <li>
+      <a href="https://www.birs.ca/events/2023/5-day-workshops/23w5006" className="text-blue-600 hover:underline">
+        Generalised Spinʳ Structures on Homogeneous Spaces – Banff, Canada (May 2023)
+      </a>
+    </li>
+    <li>
+      <a href="https://www.uv.es/functanalys/encuentros/2020/school-index.html" className="text-blue-600 hover:underline">
+        Tauberian Operators on Banach Spaces – Tenerife, Spain (Mar 2020)
+      </a>
+    </li>
+  </ul>
+</section>
       <section>
         <h2 className="text-2xl font-serif font-semibold mb-4">Teaching</h2>
         <ul className="space-y-3 list-disc list-inside">

@@ -105,7 +105,7 @@ export default function Home() {
       </section>
 
       <section>
-  <h2 className="text-2xl font-serif font-semibold mb-4">Languages</h2>
+  <h2 className="text-2xl font-serif font-semibold mb-4">🌐 Languages</h2>
   <ul className="space-y-2 list-disc list-inside">
     <li>English</li>
     <li>Spanish</li>

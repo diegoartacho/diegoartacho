@@ -24,7 +24,7 @@ export default function RootLayout({ children }) {
                 <span className="text-xl">🧬</span><span>ORCID</span>
               </a>
               <a href="https://scholar.google.es/citations?user=TZccYM409X8C&hl=en" target="_blank" className="flex flex-col items-center" title="Google Scholar">
-                <span className="text-xl">📚</span><span>Scholar</span>
+                <span className="text-xl">📚</span><span>Google Scholar</span>
               </a>
               <a href="https://arxiv.org/search/math?searchtype=author&query=Artacho,+Diego" target="_blank" className="flex flex-col items-center" title="arXiv">
                 <span className="text-xl">🧾</span><span>arXiv</span>

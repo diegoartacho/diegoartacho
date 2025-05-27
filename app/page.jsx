@@ -3,14 +3,14 @@ export default function Home() {
   return (
     <div className="space-y-10">
       <section>
-        <h2 className="text-2xl font-serif font-semibold mb-4">About</h2>
+        <h2 className="text-2xl font-serif font-semibold mb-4">📖 About</h2>
         <p className="leading-7">
           I am a final-year Mathematics PhD student at Imperial College London, supervised by Marie-Amélie Lawn and Steven Sivek. My research explores the rich interplay between spin geometry, homogeneous spaces, and special spinors. Beyond research, I am committed to teaching and student mentoring. Aside from mathematics, I love reading, chess, and squash. 
         </p>
       </section>
 
       <section>
-  <h2 className="text-2xl font-serif font-semibold mb-4">Education</h2>
+  <h2 className="text-2xl font-serif font-semibold mb-4">🎓 Education</h2>
   <ul className="space-y-3 list-disc list-inside">
     <li>
       <strong>PhD in Mathematics</strong>, Imperial College London, UK (Oct 2021 – present)  
@@ -30,7 +30,7 @@ export default function Home() {
 </section>
 
       <section>
-        <h2 className="text-2xl font-serif font-semibold mb-4">Publications</h2>
+        <h2 className="text-2xl font-serif font-semibold mb-4">📚 Publications</h2>
         <ul className="space-y-3 list-disc list-inside">
           <li><a href="https://arxiv.org/abs/2501.12998" className="text-blue-600 hover:underline">Killing Mean Curvature Solitons from Riemannian Submersions</a>, with Marie-Amélie Lawn and Miguel Ortega. (Preprint, 2025)</li>
           <li><a href="https://www.worldscientific.com/doi/10.1142/S0129167X25500120" className="text-blue-600 hover:underline">Invariant Spinors on Flag Manifolds</a>, with Uwe Semmelmann. (International Journal of Mathematics, 2025)</li>
@@ -42,7 +42,7 @@ export default function Home() {
       </section>
 
       <section>
-  <h2 className="text-2xl font-serif font-semibold mb-4">Talks</h2>
+  <h2 className="text-2xl font-serif font-semibold mb-4">🎤 Talks</h2>
   <ul className="space-y-3 list-disc list-inside">
     <li>
       <a href="https://sites.google.com/view/workshop-even-and-odd-dim-bari/home" className="text-blue-600 hover:underline">
@@ -96,7 +96,7 @@ export default function Home() {
 </section>
 
       <section>
-        <h2 className="text-2xl font-serif font-semibold mb-4">Teaching</h2>
+        <h2 className="text-2xl font-serif font-semibold mb-4">📘 Teaching</h2>
         <ul className="space-y-3 list-disc list-inside">
           <li>Associate Fellow of the Higher Education Academy (2024 - present)</li>
           <li>Graduate Teaching Assistant at Imperial College: Introduction to University Mathematics, Linear Algebra and Groups, Analysis I, Analysis II, Groups and Rings, Measure Theory, Lebesgue Measure and Integration (2022 – 2025)</li>

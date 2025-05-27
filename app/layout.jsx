@@ -15,14 +15,24 @@ export default function RootLayout({ children }) {
             <img src="/foto.jpg" alt="Diego Artacho" className="rounded-full w-28 h-28 object-cover" />
             <h1 className="text-lg font-bold font-serif">Diego Artacho</h1>
             <p className="text-sm">PhD student in Mathematics at Imperial College London</p>
-            <div className="flex space-x-3 justify-center text-gray-600 text-xl">
-              <a href="/cv.pdf" target="_blank" title="CV">📄</a>
-              <a href="mailto:d.artacho21@imperial.ac.uk" title="Email">📧</a>
-              <a href="https://orcid.org/0000-0003-2345-5043" target="_blank" title="ORCID">🧬</a>
-              <a href="https://scholar.google.es/citations?user=TZccYM409X8C&hl=en" target="_blank" title="Google Scholar">📚</a>
-              <a href="https://arxiv.org/search/math?searchtype=author&query=Artacho,+Diego" target="_blank" title="arXiv">🧾</a>
+            <div className="grid grid-cols-2 gap-3 text-sm text-gray-700 mt-4">
+              <a href="/cv.pdf" target="_blank" className="flex flex-col items-center" title="CV">
+                <span className="text-xl">📄</span><span>CV</span>
+              </a>
+              <a href="mailto:d.artacho21@imperial.ac.uk" className="flex flex-col items-center" title="Email">
+                <span className="text-xl">📧</span><span>Email</span>
+              </a>
+              <a href="https://orcid.org/0000-0003-2345-5043" target="_blank" className="flex flex-col items-center" title="ORCID">
+                <span className="text-xl">🧬</span><span>ORCID</span>
+              </a>
+              <a href="https://scholar.google.es/citations?user=TZccYM409X8C&hl=en" target="_blank" className="flex flex-col items-center" title="Google Scholar">
+                <span className="text-xl">📚</span><span>Scholar</span>
+              </a>
+              <a href="https://arxiv.org/search/math?searchtype=author&query=Artacho,+Diego" target="_blank" className="flex flex-col items-center" title="arXiv">
+                <span className="text-xl">🧾</span><span>arXiv</span>
+              </a>
             </div>
-            <div className="mt-4 text-sm">
+            <div className="mt-6 text-sm">
               <h2 className="font-semibold mb-1">Languages</h2>
               <ul className="space-y-1">
                 <li>English</li>

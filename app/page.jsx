@@ -13,8 +13,8 @@ export default function Home() {
         <h2 className="text-2xl font-serif font-semibold mb-4">Publications</h2>
         <ul className="space-y-3 list-disc list-inside">
           <li><a href="https://arxiv.org/abs/2501.12998" className="text-blue-600 hover:underline">Killing Mean Curvature Solitons from Riemannian Submersions</a>, with Marie-Amélie Lawn and Miguel Ortega. (Preprint, 2025)</li>
-          <li><a href="https://www.worldscientific.com/doi/10.1142/S0129167X25500120" className="text-blue-600 hover:underline">Invariant Spinors on Flag Manifolds</a>, with Uwe Semmelmann. (IJM, 2025)</li>
-          <li><a href="https://doi.org/10.3842/SIGMA.2025.017" className="text-blue-600 hover:underline">The Geometry of Generalised Spinʳ Spinors on Projective Spaces</a>, with Jordan Hofmann. (SIGMA, 2025)</li>
+          <li><a href="https://www.worldscientific.com/doi/10.1142/S0129167X25500120" className="text-blue-600 hover:underline">Invariant Spinors on Flag Manifolds</a>, with Uwe Semmelmann. (International Journal of Mathematics, 2025)</li>
+          <li><a href="https://doi.org/10.3842/SIGMA.2025.017" className="text-blue-600 hover:underline">The Geometry of Generalised Spinʳ Spinors on Projective Spaces</a>, with Jordan Hofmann. (Symmetry, Integrability and Geometry: Methods and Applications (SIGMA), 2025)</li>
           <li><a href="https://doi.org/10.1007/s00229-025-01617-y" className="text-blue-600 hover:underline">Generalised Killing Spinors on Three-Dimensional Lie Groups</a>. (Manuscripta Mathematica, 2025)</li>
           <li><a href="https://arxiv.org/abs/2303.05433" className="text-blue-600 hover:underline">Generalised Spinʳ Structures on Homogeneous Spaces</a>, with Marie-Amélie Lawn. (Preprint, 2023)</li>
           <li><a href="https://arxiv.org/abs/2211.14529" className="text-blue-600 hover:underline">Translating Solitons in Generalised Robertson–Walker Geometries</a>, with Marie-Amélie Lawn and Miguel Ortega. (Preprint, 2022)</li>

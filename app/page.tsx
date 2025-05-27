@@ -1,8 +1,7 @@
 
-import { Card, CardContent } from "@/components/ui/card";
-import { Button } from "@/components/ui/button";
 import Image from "next/image";
 import Link from "next/link";
+import "./globals.css";
 
 export default function Home() {
   return (
@@ -22,10 +21,10 @@ export default function Home() {
       </p>
       <div className="flex space-x-4 mb-8">
         <Link href="/cv.pdf" passHref>
-          <Button variant="outline">Download CV</Button>
+          <a className="border px-4 py-2 rounded hover:bg-gray-100 transition">Download CV</a>
         </Link>
         <Link href="mailto:d.artacho21@imperial.ac.uk" passHref>
-          <Button variant="outline">Email</Button>
+          <a className="border px-4 py-2 rounded hover:bg-gray-100 transition">Email</a>
         </Link>
       </div>
 

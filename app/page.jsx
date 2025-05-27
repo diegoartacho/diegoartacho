@@ -10,6 +10,26 @@ export default function Home() {
       </section>
 
       <section>
+  <h2 className="text-2xl font-serif font-semibold mb-4">Education</h2>
+  <ul className="space-y-3 list-disc list-inside">
+    <li>
+      <strong>PhD in Mathematics</strong>, Imperial College London, UK (Oct 2021 – July 2025)  
+      <br />
+      Research in Differential Geometry under the supervision of Marie-Amélie Lawn and Steven Sivek.
+    </li>
+    <li>
+      <strong>MASt in Mathematics (Part III)</strong>, University of Cambridge, UK (Sept 2020 – June 2021)
+    </li>
+    <li>
+      <strong>Degree in Mathematics</strong>, Autonomous University of Barcelona, Spain (Sept 2015 – June 2020)
+    </li>
+    <li>
+      <strong>Degree in Physics</strong>, Autonomous University of Barcelona, Spain (Sept 2015 – June 2020)
+    </li>
+  </ul>
+</section>
+
+      <section>
         <h2 className="text-2xl font-serif font-semibold mb-4">Publications</h2>
         <ul className="space-y-3 list-disc list-inside">
           <li><a href="https://arxiv.org/abs/2501.12998" className="text-blue-600 hover:underline">Killing Mean Curvature Solitons from Riemannian Submersions</a>, with Marie-Amélie Lawn and Miguel Ortega. (Preprint, 2025)</li>
@@ -74,6 +94,7 @@ export default function Home() {
     </li>
   </ul>
 </section>
+
       <section>
         <h2 className="text-2xl font-serif font-semibold mb-4">Teaching</h2>
         <ul className="space-y-3 list-disc list-inside">
@@ -82,6 +103,19 @@ export default function Home() {
           <li>Undergraduate Teaching Assistant at the Autonomous University of Barcelona (2018)</li>
         </ul>
       </section>
+
+      <section>
+  <h2 className="text-2xl font-serif font-semibold mb-4">Languages</h2>
+  <ul className="space-y-2 list-disc list-inside">
+    <li>English</li>
+    <li>Spanish</li>
+    <li>Catalan</li>
+    <li>French</li>
+    <li>Italian</li>
+    <li>Latin</li>
+  </ul>
+</section>
+
     </div>
   );
 }

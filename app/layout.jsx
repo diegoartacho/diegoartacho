@@ -10,12 +10,12 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <body className="flex min-h-screen text-gray-800 bg-white">
-        <aside className="w-full max-w-xs p-6 bg-gray-100 border-r lg:fixed lg:h-screen">
+        <aside className="w-full lg:w-64 p-6 bg-gray-100 border-r lg:fixed lg:h-screen overflow-y-auto">
           <div className="flex flex-col items-center text-center space-y-4">
-            <img src="/foto.jpg" alt="Diego Artacho" className="rounded-full w-32 h-32 object-cover" />
-            <h1 className="text-xl font-bold font-serif">Diego Artacho</h1>
+            <img src="/foto.jpg" alt="Diego Artacho" className="rounded-full w-28 h-28 object-cover" />
+            <h1 className="text-lg font-bold font-serif">Diego Artacho</h1>
             <p className="text-sm">PhD student in Mathematics at Imperial College London</p>
-            <div className="flex space-x-4 justify-center text-gray-600 text-xl">
+            <div className="flex space-x-3 justify-center text-gray-600 text-xl">
               <a href="/cv.pdf" target="_blank" title="CV">📄</a>
               <a href="mailto:d.artacho21@imperial.ac.uk" title="Email">📧</a>
               <a href="https://orcid.org/0000-0003-2345-5043" target="_blank" title="ORCID">🧬</a>
@@ -35,7 +35,7 @@ export default function RootLayout({ children }) {
             </div>
           </div>
         </aside>
-        <main className="lg:ml-[18rem] p-6 w-full max-w-4xl mx-auto">{children}</main>
+        <main className="lg:ml-64 p-6 w-full max-w-4xl mx-auto">{children}</main>
       </body>
     </html>
   );

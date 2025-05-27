@@ -1,6 +1,6 @@
 
 {
-  "name": "diego-website",
+  "name": "diego-complete-site",
   "version": "1.0.0",
   "scripts": {
     "dev": "next dev",

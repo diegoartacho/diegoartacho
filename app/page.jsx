@@ -13,18 +13,18 @@ export default function Home() {
   <h2 className="text-2xl font-serif font-semibold mb-4">Education</h2>
   <ul className="space-y-3 list-disc list-inside">
     <li>
-      <strong>PhD in Mathematics</strong>, Imperial College London, UK (Oct 2021 – July 2025)  
+      <strong>PhD in Mathematics</strong>, Imperial College London, UK (Oct 2021 – present)  
       <br />
       Research in Differential Geometry under the supervision of Marie-Amélie Lawn and Steven Sivek.
     </li>
     <li>
-      <strong>MASt in Mathematics (Part III)</strong>, University of Cambridge, UK (Sept 2020 – June 2021)
+      <strong>MASt in Pure Mathematics (Part III)</strong>, University of Cambridge, UK (Sept 2020 – June 2021)
     </li>
     <li>
-      <strong>Degree in Mathematics</strong>, Autonomous University of Barcelona, Spain (Sept 2015 – June 2020)
+      <strong>Bachelor's Degree in Mathematics</strong>, Autonomous University of Barcelona, Spain (Sept 2015 – June 2020)
     </li>
     <li>
-      <strong>Degree in Physics</strong>, Autonomous University of Barcelona, Spain (Sept 2015 – June 2020)
+      <strong>Bachelor's Degree in Physics</strong>, Autonomous University of Barcelona, Spain (Sept 2015 – June 2020)
     </li>
   </ul>
 </section>
@@ -98,8 +98,8 @@ export default function Home() {
       <section>
         <h2 className="text-2xl font-serif font-semibold mb-4">Teaching</h2>
         <ul className="space-y-3 list-disc list-inside">
-          <li>Associate Fellow of the Higher Education Academy (2024–)</li>
-          <li>Graduate Teaching Assistant at Imperial College: Introduction to University Mathematics, Linear Algebra and Groups, Analysis I, Analysis II, Groups and Rings, Measure Theory, Lebesgue Measure and Integration (2022–2025)</li>
+          <li>Associate Fellow of the Higher Education Academy (2024 - present)</li>
+          <li>Graduate Teaching Assistant at Imperial College: Introduction to University Mathematics, Linear Algebra and Groups, Analysis I, Analysis II, Groups and Rings, Measure Theory, Lebesgue Measure and Integration (2022 – 2025)</li>
           <li>Undergraduate Teaching Assistant at the Autonomous University of Barcelona (2018)</li>
         </ul>
       </section>

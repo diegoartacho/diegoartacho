@@ -12,7 +12,7 @@ export default function RootLayout({ children }) {
       <body className="flex min-h-screen text-gray-800 bg-white">
         <aside className="w-full lg:w-64 p-6 bg-gray-100 border-r lg:fixed lg:h-screen overflow-y-auto">
           <div className="flex flex-col items-center text-center space-y-4">
-            <img src="/foto.jpg" alt="Diego Artacho" className="rounded-full w-28 h-28 object-cover mx-auto block" />
+            <img src="/foto.jpg" alt="Diego Artacho" className="rounded-full w-28 h-28 object-cover object-top mx-auto block" />
             <h1 className="text-lg font-bold font-serif">Diego Artacho</h1>
             <p className="text-sm text-gray-700">PhD student in Mathematics at Imperial College London</p>
             <p className="text-xs text-gray-500">d (dot) artacho21 (at) imperial (dot) ac (dot) uk</p>

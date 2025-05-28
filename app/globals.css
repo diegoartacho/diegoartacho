@@ -3,12 +3,6 @@
 @tailwind components;
 @tailwind utilities;
 
-/* Enable smooth scrolling behavior */
 html {
   scroll-behavior: smooth;
-}
-
-/* Ensure space for anchor targets when using scroll-mt-* in Tailwind */
-section {
-  scroll-margin-top: 6rem; /* Equivalent to scroll-mt-24 (24 * 0.25rem) */
 }

@@ -2,14 +2,14 @@
 export default function Home() {
   return (
     <div className="space-y-10">
-      <section>
+      <section id="about">
         <h2 className="text-2xl font-serif font-semibold mb-4">📖 About</h2>
         <p className="leading-7">
           I am a final-year Mathematics PhD student at Imperial College London, supervised by Marie-Amélie Lawn and Steven Sivek. My research explores the rich interplay between spin geometry, homogeneous spaces, and special spinors. Beyond research, I am committed to teaching and student mentoring. Aside from mathematics, I love reading, chess, and squash. 
         </p>
       </section>
 
-      <section>
+      <section id="education">
   <h2 className="text-2xl font-serif font-semibold mb-4">🎓 Education</h2>
   <ul className="space-y-3 list-disc list-inside">
     <li>
@@ -29,7 +29,7 @@ export default function Home() {
   </ul>
 </section>
 
-      <section>
+      <section id="publications">
         <h2 className="text-2xl font-serif font-semibold mb-4">📚 Publications</h2>
         <ul className="space-y-3 list-disc list-inside">
           <li><a href="https://arxiv.org/abs/2501.12998" className="text-blue-600 hover:underline">Killing Mean Curvature Solitons from Riemannian Submersions</a>, with Marie-Amélie Lawn and Miguel Ortega. (Preprint, 2025)</li>
@@ -41,7 +41,7 @@ export default function Home() {
         </ul>
       </section>
 
-      <section>
+      <section id="talks">
   <h2 className="text-2xl font-serif font-semibold mb-4">🎤 Talks</h2>
   <ul className="space-y-3 list-disc list-inside">
     <li>
@@ -95,7 +95,7 @@ export default function Home() {
   </ul>
 </section>
 
-      <section>
+      <section id="teaching">
         <h2 className="text-2xl font-serif font-semibold mb-4">📘 Teaching</h2>
         <ul className="space-y-3 list-disc list-inside">
           <li>Associate Fellow of the Higher Education Academy (2024 - present)</li>
@@ -104,7 +104,7 @@ export default function Home() {
         </ul>
       </section>
 
-      <section>
+      <section id="languages">
   <h2 className="text-2xl font-serif font-semibold mb-4">🌐 Languages</h2>
   <ul className="space-y-2 list-disc list-inside">
     <li>English</li>

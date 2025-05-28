@@ -30,6 +30,19 @@ export default function RootLayout({ children }) {
                 <span className="text-xl">🧾</span><span>arXiv</span>
               </a>
             </div>
+
+            <div className="mt-6 text-left w-full text-sm space-y-2">
+  <h2 className="font-semibold text-gray-800 mb-1 border-b pb-1">Contents</h2>
+  <ul className="space-y-1 pl-1 list-disc list-inside text-gray-700">
+    <li><a href="#about" className="hover:underline">About</a></li>
+    <li><a href="#education" className="hover:underline">Education</a></li>
+    <li><a href="#publications" className="hover:underline">Publications</a></li>
+    <li><a href="#talks" className="hover:underline">Talks</a></li>
+    <li><a href="#teaching" className="hover:underline">Teaching</a></li>
+    <li><a href="#languages" className="hover:underline">Languages</a></li>
+  </ul>
+</div>
+
           </div>
         </aside>
         <main className="lg:ml-64 p-6 w-full max-w-4xl mx-auto">{children}</main>

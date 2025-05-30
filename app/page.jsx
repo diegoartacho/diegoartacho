@@ -5,7 +5,7 @@ export default function Home() {
       <section id="📖about" className="scroll-mt-24">
         <h2 className="text-2xl font-serif font-semibold mb-4">📖 About</h2>
         <p className="leading-7">
-          I am a final-year Mathematics PhD student at Imperial College London, supervised by Marie-Amélie Lawn and Steven Sivek. My research explores the rich interplay between spin geometry, homogeneous spaces, and special spinors. Beyond research, I am committed to teaching and student mentoring. Aside from mathematics, I love reading, chess, and squash. 
+          I am a final-year Mathematics PhD student at Imperial College London, supervised by Marie-Amélie Lawn and Steven Sivek. My research explores the rich interplay between spin geometry, homogeneous spaces, and special spinors. Beyond research, I am committed to teaching and student mentoring. Aside from mathematics, I love reading, squash, and chess (although I am a terrible player). 
         </p>
       </section>
 

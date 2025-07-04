@@ -44,11 +44,15 @@ export default function Home() {
       <section id="🎤talks" className="scroll-mt-24">
         <h2 className="text-2xl font-serif font-semibold mb-4">🎤 Talks</h2>
   <ul className="space-y-3 list-disc list-inside">
-    <li>
-      <a href="https://sites.google.com/view/workshop-even-and-odd-dim-bari/home" className="text-blue-600 hover:underline">
-        Generalised Spin Structures – Bari, Italy (July 2025)
-      </a>
-    </li>
+  <li>
+  <a href="https://sites.google.com/view/workshop-even-and-odd-dim-bari/home" className="text-blue-600 hover:underline">
+    Generalised Spin Structures – Bari, Italy (July 2025)
+  </a>
+  <br />
+  <a href="/slides_bari_2025.pdf" className="text-blue-600 hover:underline" target="_blank" rel="noopener noreferrer">
+    Slides available here
+  </a>
+</li>
     <li>
       <a href="https://www.ub.edu/topologia/seminar.html" className="text-blue-600 hover:underline">
         A Generalisation of Spin Structures – UB, Barcelona, Spain (May 2025)

@@ -49,7 +49,7 @@ export default function Home() {
     Generalised Spin Structures – Bari, Italy (July 2025)
   </a>
   {' – '}
-  <a href="/slides_bari_2025.pdf" className="text-blue-600 hover:underline" target="_blank" rel="noopener noreferrer">
+  <a href="/handout_bari_2025.pdf" className="text-blue-600 hover:underline" target="_blank" rel="noopener noreferrer">
     slides available here
   </a>
 </li>

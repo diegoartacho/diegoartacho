@@ -44,6 +44,15 @@ export default function Home() {
       <section id="🎤talks" className="scroll-mt-24">
         <h2 className="text-2xl font-serif font-semibold mb-4">🎤 Talks</h2>
   <ul className="space-y-3 list-disc list-inside">
+    <li>
+  <a href="https://conference.math.muni.cz/dga2025/" className="text-blue-600 hover:underline">
+    Generalised Spin Structures – Brno, Czech Republic (Sept 2025)
+  </a>
+  {' – '}
+  <a href="/slides_brno_2025.pdf" className="text-blue-600 hover:underline" target="_blank" rel="noopener noreferrer">
+    slides available here
+  </a>
+</li>
   <li>
   <a href="https://sites.google.com/view/workshop-even-and-odd-dim-bari/home" className="text-blue-600 hover:underline">
     Generalised Spin Structures – Bari, Italy (July 2025)

@@ -36,7 +36,7 @@ export default function Home() {
           <li><a href="https://www.worldscientific.com/doi/10.1142/S0129167X25500120" className="text-blue-600 hover:underline">Invariant Spinors on Flag Manifolds</a>, with Uwe Semmelmann. (International Journal of Mathematics, 2025)</li>
           <li><a href="https://doi.org/10.3842/SIGMA.2025.017" className="text-blue-600 hover:underline">The Geometry of Generalised Spinʳ Spinors on Projective Spaces</a>, with Jordan Hofmann. (Symmetry, Integrability and Geometry: Methods and Applications (SIGMA), 2025)</li>
           <li><a href="https://doi.org/10.1007/s00229-025-01617-y" className="text-blue-600 hover:underline">Generalised Killing Spinors on Three-Dimensional Lie Groups</a>. (Manuscripta Mathematica, 2025)</li>
-          <li><a href="https://arxiv.org/abs/2303.05433" className="text-blue-600 hover:underline">Generalised Spinʳ Structures on Homogeneous Spaces</a>, with Marie-Amélie Lawn. (Preprint, 2023)</li>
+          <li><a href="https://arxiv.org/abs/2303.05433" className="text-blue-600 hover:underline">Generalised Spinʳ Structures on Homogeneous Spaces</a>, with Marie-Amélie Lawn. (Accepted in Differential Geometry and its Applications, 2025)</li>
           <li><a href="https://arxiv.org/abs/2211.14529" className="text-blue-600 hover:underline">Translating Solitons in Generalised Robertson–Walker Geometries</a>, with Marie-Amélie Lawn and Miguel Ortega. (Preprint, 2022)</li>
         </ul>
       </section>

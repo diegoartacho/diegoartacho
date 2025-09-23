@@ -32,7 +32,7 @@ export default function Home() {
       <section id="📚publications" className="scroll-mt-24">
         <h2 className="text-2xl font-serif font-semibold mb-4">📚 Publications</h2>
         <ul className="space-y-3 list-disc list-inside">
-          <li><a href="https://arxiv.org/abs/2501.12998" className="text-blue-600 hover:underline">Killing Mean Curvature Solitons from Riemannian Submersions</a>, with Marie-Amélie Lawn and Miguel Ortega. (Accepted in the Journal of Mathematical Analysis and Applications, 2025)</li>
+          <li><a href="https://doi.org/10.1016/j.jmaa.2025.130088" className="text-blue-600 hover:underline">Killing Mean Curvature Solitons from Riemannian Submersions</a>, with Marie-Amélie Lawn and Miguel Ortega. (Journal of Mathematical Analysis and Applications, 2025)</li>
           <li><a href="https://www.worldscientific.com/doi/10.1142/S0129167X25500120" className="text-blue-600 hover:underline">Invariant Spinors on Flag Manifolds</a>, with Uwe Semmelmann. (International Journal of Mathematics, 2025)</li>
           <li><a href="https://doi.org/10.3842/SIGMA.2025.017" className="text-blue-600 hover:underline">The Geometry of Generalised Spinʳ Spinors on Projective Spaces</a>, with Jordan Hofmann. (Symmetry, Integrability and Geometry: Methods and Applications (SIGMA), 2025)</li>
           <li><a href="https://doi.org/10.1007/s00229-025-01617-y" className="text-blue-600 hover:underline">Generalised Killing Spinors on Three-Dimensional Lie Groups</a>. (Manuscripta Mathematica, 2025)</li>

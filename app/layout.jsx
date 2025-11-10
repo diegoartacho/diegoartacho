@@ -3,7 +3,7 @@ import './globals.css';
 
 export const metadata = {
   title: 'Diego Artacho',
-  description: 'PhD student in Mathematics at Imperial College London',
+  description: 'Postdoctoral researcher at KU Leuven',
 };
 
 export default function RootLayout({ children }) {

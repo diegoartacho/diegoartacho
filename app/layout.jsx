@@ -14,8 +14,8 @@ export default function RootLayout({ children }) {
           <div className="flex flex-col items-center text-center space-y-4">
             <img src="/foto.jpg" alt="Diego Artacho" className="rounded-full w-28 h-28 object-cover object-top mx-auto block" />
             <h1 className="text-lg font-bold font-serif">Diego Artacho</h1>
-            <p className="text-sm text-gray-700">PhD student in Mathematics at Imperial College London</p>
-            <p className="text-xs text-gray-500">d (dot) artacho21 (at) imperial (dot) ac (dot) uk</p>
+            <p className="text-sm text-gray-700">Postdoctoral researcher at KU Leuven</p>
+            <p className="text-xs text-gray-500">diego (dot) artachodeobeso (at) kuleuven (dot) be </p>
             <div className="grid grid-cols-2 gap-3 text-sm text-gray-700 mt-4">
               <a href="/cv.pdf" target="_blank" className="flex flex-col items-center" title="CV">
                 <span className="text-xl">📄</span><span>CV</span>

@@ -5,15 +5,24 @@ export default function Home() {
       <section id="📖about" className="scroll-mt-24">
         <h2 className="text-2xl font-serif font-semibold mb-4">📖 About</h2>
         <p className="leading-7">
-          I am a final-year Mathematics PhD student at Imperial College London, supervised by Marie-Amélie Lawn and Steven Sivek. My research explores the rich interplay between spin geometry, homogeneous spaces, and special spinors. Beyond research, I am committed to teaching and student mentoring. Aside from mathematics, I love reading, squash, and chess (although I am a terrible player). 
+          I am a postdoctoral researcher at the Geoetry group in KU Leuven. My research explores the rich interplay between spin geometry, homogeneous spaces, and special spinors. Beyond research, I am committed to teaching and student mentoring. Aside from mathematics, I love reading, squash, and chess (although I am a terrible player). 
         </p>
       </section>
+
+       <section id="💼experience" className="scroll-mt-24">
+        <h2 className="text-2xl font-serif font-semibold mb-4">💼 Experience</h2>
+  <ul className="space-y-3 list-disc list-inside">
+    <li>
+      <strong>Postdoctoral researcher</strong>, KU Leuven, Belgium (Nov 2025 – present)  
+    </li>
+  </ul>
+</section>
 
       <section id="🎓education" className="scroll-mt-24">
         <h2 className="text-2xl font-serif font-semibold mb-4">🎓 Education</h2>
   <ul className="space-y-3 list-disc list-inside">
     <li>
-      <strong>PhD in Mathematics</strong>, Imperial College London, UK (Oct 2021 – present)  
+      <strong>PhD in Mathematics</strong>, Imperial College London, UK (Oct 2021 – Oct 2025)  
       <br />
       Research in Differential Geometry under the supervision of Marie-Amélie Lawn and Steven Sivek.
     </li>

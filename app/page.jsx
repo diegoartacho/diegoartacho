@@ -24,7 +24,8 @@ export default function Home() {
     <li>
       <strong>PhD in Mathematics</strong>, Imperial College London, UK (Oct 2021 – Oct 2025)  
       <br />
-      Research in Differential Geometry under the supervision of Marie-Amélie Lawn and Steven Sivek.
+      Research in Differential Geometry under the supervision of Marie-Amélie Lawn and Steven Sivek. 
+      Thesis examined by Simon Donaldson and Simon Salamon. 
     </li>
     <li>
       <strong>MASt in Pure Mathematics (Part III)</strong>, University of Cambridge, UK (Sept 2020 – June 2021)

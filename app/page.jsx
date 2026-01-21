@@ -131,7 +131,7 @@ export default function Home() {
       </section>
 
     <section id="🧩miscellanea" className="scroll-mt-24">
-        <h2 className="text-2xl font-serif font-semibold mb-4">🧩 Miscellanea"</h2>
+        <h2 className="text-2xl font-serif font-semibold mb-4">🧩 Miscellanea</h2>
   <ul className="space-y-2 list-disc list-inside">
     <li>I've got <a href="https://oeis.org/A392560" className="text-blue-600 hover:underline">
         my own sequence in the OEIS

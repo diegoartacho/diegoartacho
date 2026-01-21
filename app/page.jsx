@@ -5,7 +5,7 @@ export default function Home() {
       <section id="📖about" className="scroll-mt-24">
         <h2 className="text-2xl font-serif font-semibold mb-4">📖 About</h2>
         <p className="leading-7">
-          I am a postdoctoral researcher at the Geoetry group in KU Leuven. My research explores the rich interplay between spin geometry, homogeneous spaces, and special spinors. Beyond research, I am committed to teaching and student mentoring. Aside from mathematics, I love reading, squash, and chess (although I am a terrible player). 
+          I am a postdoctoral researcher at the Geometry group in KU Leuven. My research explores the rich interplay between spin geometry, homogeneous spaces, and special spinors. Beyond research, I am committed to teaching and student mentoring. Aside from mathematics, I love reading, squash, and chess (although I am a terrible player). 
         </p>
       </section>
 

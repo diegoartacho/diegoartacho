@@ -135,7 +135,7 @@ export default function Home() {
   <ul className="space-y-2 list-disc list-inside">
     <li>I've got <a href="https://oeis.org/A392560" className="text-blue-600 hover:underline">
         my own sequence in the OEIS
-      </a>, and I conjecture that all the terms are prime. 
+      </a>, and I conjecture that all its terms are prime. 
       </li>
   </ul>
 </section>

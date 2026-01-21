@@ -124,7 +124,8 @@ export default function Home() {
       <section id="📘teaching" className="scroll-mt-24">
         <h2 className="text-2xl font-serif font-semibold mb-4">📘 Teaching</h2>
         <ul className="space-y-3 list-disc list-inside">
-          <li>Associate Fellow of the Higher Education Academy (2024 - present)</li>
+          <li>Associate Fellow of <a href="https://www.advance-he.ac.uk" className="text-blue-600 hover:underline">
+        Advance HE</a>, formerly the Higher Education Academy (2024 - present)</li>
           <li>Graduate Teaching Assistant at Imperial College: Introduction to University Mathematics, Linear Algebra and Groups, Analysis I, Analysis II, Groups and Rings, Measure Theory, Lebesgue Measure and Integration (2022 – 2025)</li>
           <li>Undergraduate Teaching Assistant at the Autonomous University of Barcelona (2018)</li>
         </ul>

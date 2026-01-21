@@ -130,6 +130,16 @@ export default function Home() {
         </ul>
       </section>
 
+    <section id="🧩miscellanea" className="scroll-mt-24">
+        <h2 className="text-2xl font-serif font-semibold mb-4">🧩 Miscellanea"</h2>
+  <ul className="space-y-2 list-disc list-inside">
+    <li>I've got <a href="https://oeis.org/A392560" className="text-blue-600 hover:underline">
+        my own sequence in the OEIS
+      </a>, and I conjecture that all the terms are prime. 
+      </li>
+  </ul>
+</section>
+
       <section id="🌐languages" className="scroll-mt-24">
         <h2 className="text-2xl font-serif font-semibold mb-4">🌐 Languages</h2>
   <ul className="space-y-2 list-disc list-inside">

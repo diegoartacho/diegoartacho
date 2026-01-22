@@ -45,12 +45,12 @@ export default function Home() {
         <ul className="space-y-3 list-disc list-inside">
           <li><a href="https://arxiv.org/abs/2512.01620" className="text-blue-600 hover:underline">On the stability of Einstein metrics carrying a special twisted spinor</a>. (Preprint, 2025)</li>
           <li><a href="https://doi.org/10.1016/j.jmaa.2025.130088" className="text-blue-600 hover:underline">Killing Mean Curvature Solitons from Riemannian Submersions</a>, with Marie-Amélie Lawn and Miguel Ortega. (Journal of Mathematical Analysis and Applications, 2026)</li>
-          <li><a href="https://hdl.handle.net/10044/1/124245" className="text-blue-600 hover:underline">Special spinors in generalised spin geometry</a>. (PhD thesis, 2025)</li>
-          <li><a href="https://www.worldscientific.com/doi/10.1142/S0129167X25500120" className="text-blue-600 hover:underline">Invariant Spinors on Flag Manifolds</a>, with Uwe Semmelmann. (International Journal of Mathematics, 2025)</li>
+          <li><a href="https://doi.org/10.25560/124245" className="text-blue-600 hover:underline">Special spinors in generalised spin geometry</a>. (PhD thesis, 2025)</li>
+          <li><a href="https://doi.org/10.1142/S0129167X25500120" className="text-blue-600 hover:underline">Invariant Spinors on Flag Manifolds</a>, with Uwe Semmelmann. (International Journal of Mathematics, 2025)</li>
           <li><a href="https://doi.org/10.3842/SIGMA.2025.017" className="text-blue-600 hover:underline">The Geometry of Generalised Spinʳ Spinors on Projective Spaces</a>, with Jordan Hofmann. (Symmetry, Integrability and Geometry: Methods and Applications (SIGMA), 2025)</li>
           <li><a href="https://doi.org/10.1007/s00229-025-01617-y" className="text-blue-600 hover:underline">Generalised Killing Spinors on Three-Dimensional Lie Groups</a>. (Manuscripta Mathematica, 2025)</li>
           <li><a href="https://doi.org/10.1016/j.difgeo.2025.102291" className="text-blue-600 hover:underline">Generalised Spinʳ Structures on Homogeneous Spaces</a>, with Marie-Amélie Lawn. (Differential Geometry and its Applications, 2025)</li>
-          <li><a href="https://arxiv.org/abs/2211.14529" className="text-blue-600 hover:underline">New Examples of Translating Solitons in Generalised Robertson-Walker Geometries</a>, with Marie-Amélie Lawn and Miguel Ortega. (To appear in the Asian Journal of Mathematics, 2025)</li>
+          <li><a href="https://dx.doi.org/10.4310/AJM.260122040802" className="text-blue-600 hover:underline">New Examples of Translating Solitons in Generalised Robertson-Walker Geometries</a>, with Marie-Amélie Lawn and Miguel Ortega. (Asian Journal of Mathematics, 2025)</li>
         </ul>
       </section>
 

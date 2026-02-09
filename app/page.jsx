@@ -135,8 +135,8 @@ export default function Home() {
         <h2 className="text-2xl font-serif font-semibold mb-4">🧩 Miscellanea</h2>
   <ul className="space-y-2 list-disc list-inside">
     <li>I've got <a href="https://oeis.org/A392560" className="text-blue-600 hover:underline">
-        my own sequence in the OEIS
-      </a>, constructed as follows: its n-th term is the distance from the product of the first n triangular numbers to the next prime at distance greater than 1. So far, the first 500 terms have been computed, and all of them are prime. I conjecture that all its terms are prime. 
+        a sequence in the OEIS
+      </a> together with Andreas Vermeiren, constructed as follows: its n-th term is the distance from the product of the first n triangular numbers to the next prime at distance greater than 1. So far, the first 500 terms have been computed, and all of them are prime. I conjecture that all its terms are prime. 
       </li>
   </ul>
 </section>

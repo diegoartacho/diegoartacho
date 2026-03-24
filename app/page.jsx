@@ -85,11 +85,130 @@ export default function Home() {
       </section>
 
       <section>
-        <h2 className="text-2xl font-serif font-semibold mb-4">Talks</h2>
-        <ul className="space-y-2 text-gray-800">
-          {/* You should paste your original talks list here */}
-        </ul>
-      </section>
+  <h2 className="text-2xl font-serif font-semibold mb-4">Talks</h2>
+  <ul className="space-y-6 text-gray-800">
+
+    <li>
+      <div className="flex justify-between">
+        <strong>New spinorial criteria for the stability of Einstein metrics</strong>
+        <span className="text-gray-500 text-sm">March 2026</span>
+      </div>
+      <div className="italic">Seminario de Geometría de la Universidad de Granada. Granada, Spain.</div>
+      <a href="https://wpd.ugr.es/~geometry/seminar/es" className="text-sm text-gray-600 hover:underline">Link to event site</a>
+    </li>
+
+    <li>
+      <div className="flex justify-between">
+        <strong>Stability of Einstein metrics that carry special twisted spinors</strong>
+        <span className="text-gray-500 text-sm">March 2026</span>
+      </div>
+      <div className="italic">Seminario de Geometría de la Universidad de Córdoba. Córdoba, Spain.</div>
+      <a href="https://www.uco.es/investiga/grupos/geometria/es/seminarios/" className="text-sm text-gray-600 hover:underline">Link to event site</a>
+    </li>
+
+    <li>
+      <div className="flex justify-between">
+        <strong>Generalised Spin Structures</strong>
+        <span className="text-gray-500 text-sm">September 2025</span>
+      </div>
+      <div className="italic">Differential Geometry and its Applications. Brno, Czech Republic.</div>
+      <a href="https://conference.math.muni.cz/dga2025/" className="text-sm text-gray-600 hover:underline">Link to event site</a>
+    </li>
+
+    <li>
+      <div className="flex justify-between">
+        <strong>Generalised Spin Structures</strong>
+        <span className="text-gray-500 text-sm">July 2025</span>
+      </div>
+      <div className="italic">Workshop on Even and Odd Dimensional Geometric Structures. Bari, Italy.</div>
+      <a href="https://sites.google.com/view/workshop-even-and-odd-dim-bari/home" className="text-sm text-gray-600 hover:underline">Link to event site</a>
+    </li>
+
+    <li>
+      <div className="flex justify-between">
+        <strong>A Generalisation of Spin Structures</strong>
+        <span className="text-gray-500 text-sm">May 2025</span>
+      </div>
+      <div className="italic">Seminari de Topologia de la UB. Barcelona, Spain.</div>
+      <a href="https://www.ub.edu/topologia/seminar.html" className="text-sm text-gray-600 hover:underline">Link to event site</a>
+    </li>
+
+    <li>
+      <div className="flex justify-between">
+        <strong>Quaternion-Kähler Manifolds</strong>
+        <span className="text-gray-500 text-sm">February 2025</span>
+      </div>
+      <div className="italic">Quaternion-Kähler manifolds and the LeBrun-Salamon Conjecture (MAM III). Marburg, Germany.</div>
+      <a href="https://sites.google.com/view/mam-iii" className="text-sm text-gray-600 hover:underline">Link to event site</a>
+    </li>
+
+    <li>
+      <div className="flex justify-between">
+        <strong>Spin Geometry and Generalisations</strong>
+        <span className="text-gray-500 text-sm">November 2024</span>
+      </div>
+      <div className="italic">Seminari de Geometria de la UAB. Barcelona, Spain.</div>
+      <a href="https://mat.uab.cat/web/ligat/seminar/geometry-seminar/" className="text-sm text-gray-600 hover:underline">Link to seminar site</a>
+    </li>
+
+    <li>
+      <div className="flex justify-between">
+        <strong>Characteristic Classes on Homogeneous Spaces</strong>
+        <span className="text-gray-500 text-sm">June 2024</span>
+      </div>
+      <div className="italic">Spin Geometry Working Group. London, UK.</div>
+    </li>
+
+    <li>
+      <div className="flex justify-between">
+        <strong>What is Spin Geometry?</strong>
+        <span className="text-gray-500 text-sm">January 2024</span>
+      </div>
+      <div className="italic">KCL/UCL Junior Geometry Seminar. London, UK.</div>
+      <a href="https://www.ucl.ac.uk/junior-geometry/" className="text-sm text-gray-600 hover:underline">Link to seminar site</a>
+    </li>
+
+    <li>
+      <div className="flex justify-between">
+        <strong>Twisted Spin Structures</strong>
+        <span className="text-gray-500 text-sm">November 2023</span>
+      </div>
+      <div className="italic">Forschungsseminar Differentialgeometrie und Analysis. Marburg, Germany.</div>
+      <a href="https://www.mathematik.uni-marburg.de/~agricola/FS.html" className="text-sm text-gray-600 hover:underline">Link to seminar site</a>
+    </li>
+
+    <li>
+      <div className="flex justify-between">
+        <strong>Invariant Twisted Spinors on Homogeneous Spaces</strong>
+        <span className="text-gray-500 text-sm">October 2023</span>
+      </div>
+      <div className="italic">The Crazy World of Arthur L. Besse. Stuttgart, Germany.</div>
+      <a href="https://www.igt.uni-stuttgart.de/workshop-einstein-2023/" className="text-sm text-gray-600 hover:underline">Link to event site</a>
+    </li>
+
+    <li>
+      <div className="flex justify-between">
+        <strong>Generalised Spinʳ Structures on Homogeneous Spaces</strong>
+        <span className="text-gray-500 text-sm">May 2023</span>
+      </div>
+      <div className="italic">BIRS Workshop: Spinorial and Octonionic Aspects of G₂ and Spin(7) Geometry. Banff, Canada.</div>
+      <div className="text-sm">
+        <a href="https://www.birs.ca/events/2023/5-day-workshops/23w5006" className="text-gray-600 hover:underline mr-3">Event</a>
+        <a href="https://www.birs.ca/events/2023/5-day-workshops/23w5006/videos/watch/202305291350-Artacho.html" className="text-gray-600 hover:underline">Recorded talk</a>
+      </div>
+    </li>
+
+    <li>
+      <div className="flex justify-between">
+        <strong>Tauberian Operators on Banach Spaces</strong>
+        <span className="text-gray-500 text-sm">March 2020</span>
+      </div>
+      <div className="italic">X Workshop on Functional Analysis. Tenerife, Spain.</div>
+      <a href="https://www.uv.es/functanalys/encuentros/2020/school-index.html" className="text-sm text-gray-600 hover:underline">Link to event site</a>
+    </li>
+
+  </ul>
+</section>
 
     </div>
   );

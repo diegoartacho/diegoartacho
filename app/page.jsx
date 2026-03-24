@@ -25,8 +25,9 @@ export default function Home() {
             Examined by Simon Donaldson and Simon Salamon.
           </p>
           <p><strong>MASt in Pure Mathematics</strong>, University of Cambridge (2020–2021)</p>
-          <p><strong>BSc Mathematics</strong>, Universitat Aut\`{o}noma de Barcelona (2015–2020)</p>
-          <p><strong>BSc Physics</strong>, Universitat Aut\`{o}noma de Barcelona (2015–2020)</p>
+          <p><strong>BSc Mathematics</strong>, Universitat Autònoma de Barcelona
+ (2015–2020)</p>
+          <p><strong>BSc Physics</strong>, Universitat Autònoma de Barcelona (2015–2020)</p>
         </div>
       </section>
 

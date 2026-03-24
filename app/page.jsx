@@ -32,15 +32,50 @@ export default function Home() {
 
       <section>
         <h2 className="text-2xl font-serif font-semibold mb-4">Publications</h2>
-        <ul className="space-y-3">
-          <li><a href="https://arxiv.org/abs/2512.01620" className="hover:underline">On the stability of Einstein metrics carrying a special twisted spinor</a> (2025)</li>
-          <li><a href="https://doi.org/10.1016/j.jmaa.2025.130088" className="hover:underline">Killing Mean Curvature Solitons from Riemannian Submersions</a> (2026)</li>
-          <li><a href="https://doi.org/10.25560/124245" className="hover:underline">Special spinors in generalised spin geometry</a> (2025)</li>
-          <li><a href="https://doi.org/10.1142/S0129167X25500120" className="hover:underline">Invariant Spinors on Flag Manifolds</a> (2025)</li>
-          <li><a href="https://doi.org/10.3842/SIGMA.2025.017" className="hover:underline">Generalised Spinʳ Spinors on Projective Spaces</a> (2025)</li>
-          <li><a href="https://doi.org/10.1007/s00229-025-01617-y" className="hover:underline">Generalised Killing Spinors on Three-Dimensional Lie Groups</a> (2025)</li>
-          <li><a href="https://doi.org/10.1016/j.difgeo.2025.102291" className="hover:underline">Generalised Spinʳ Structures on Homogeneous Spaces</a> (2025)</li>
-          <li><a href="https://dx.doi.org/10.4310/AJM.260122040802" className="hover:underline">New Examples of Translating Solitons</a> (2025)</li>
+        <ul className="space-y-4">
+          <li>
+            <a href="https://arxiv.org/abs/2512.01620" className="hover:underline">
+              On the stability of Einstein metrics carrying a special twisted spinor
+            </a>
+            <div className="text-sm text-gray-600">Preprint, 2025</div>
+          </li>
+          <li>
+            <a href="https://doi.org/10.1016/j.jmaa.2025.130088" className="hover:underline">
+              Killing Mean Curvature Solitons from Riemannian Submersions
+            </a>
+            <div className="text-sm text-gray-600">Journal of Mathematical Analysis and Applications, 2026</div>
+          </li>
+          <li>
+            <a href="https://doi.org/10.25560/124245" className="hover:underline">
+              Special spinors in generalised spin geometry
+            </a>
+            <div className="text-sm text-gray-600">PhD thesis, 2025</div>
+          </li>
+          <li>
+            <a href="https://doi.org/10.1142/S0129167X25500120" className="hover:underline">
+              Invariant Spinors on Flag Manifolds
+            </a>
+            <div className="text-sm text-gray-600">International Journal of Mathematics, 2025</div>
+          </li>
+          <li>
+            <a href="https://doi.org/10.3842/SIGMA.2025.017" className="hover:underline">
+              The Geometry of Generalised Spinʳ Spinors on Projective Spaces
+            </a>
+            <div className="text-sm text-gray-600">SIGMA, 2025</div>
+          </li>
+          <li>
+            <a href="https://doi.org/10.1007/s00229-025-01617-y" className="hover:underline">
+              Generalised Killing Spinors on Three-Dimensional Lie Groups
+            </a>
+            <div className="text-sm text-gray-600">Manuscripta Mathematica, 2025</div>
+          </li>
+        </ul>
+      </section>
+
+      <section>
+        <h2 className="text-2xl font-serif font-semibold mb-4">Talks</h2>
+        <ul className="space-y-2 text-gray-800">
+          {/* You should paste your original talks list here */}
         </ul>
       </section>
 

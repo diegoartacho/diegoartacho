@@ -10,26 +10,59 @@ export default function Home() {
       </section>
 
       <section>
-        <h2 className="text-2xl font-serif font-semibold mb-4">Experience</h2>
-        <p className="text-gray-800">
-          <strong>Postdoctoral researcher</strong>, KU Leuven, Belgium (Nov 2025 – present)
-        </p>
-      </section> 
+  <h2 className="text-2xl font-serif font-semibold mb-4">Experience</h2>
+
+  <div className="flex justify-between">
+    <p className="text-gray-800">
+      <strong>Postdoctoral researcher</strong>, KU Leuven, Belgium
+    </p>
+    <span className="text-gray-500 text-sm whitespace-nowrap">
+      Nov 2025 – present
+    </span>
+  </div>
+</section>
 
       <section>
-        <h2 className="text-2xl font-serif font-semibold mb-4">Education</h2>
-        <div className="space-y-4 text-gray-800">
-          <p>
-            <strong>PhD in Mathematics</strong>, Imperial College London (2021–2025)<br/>
-            Research in Differential Geometry under Marie-Amélie Lawn and Steven Sivek.<br/>
-            Examined by Simon Donaldson and Simon Salamon.
-          </p>
-          <p><strong>MASt in Pure Mathematics</strong>, University of Cambridge (2020–2021)</p>
-          <p><strong>BSc Mathematics</strong>, Universitat Autònoma de Barcelona
- (2015–2020)</p>
-          <p><strong>BSc Physics</strong>, Universitat Autònoma de Barcelona (2015–2020)</p>
-        </div>
-      </section>
+  <h2 className="text-2xl font-serif font-semibold mb-4">Education</h2>
+
+  <div className="space-y-4 text-gray-800">
+
+    <div>
+      <div className="flex justify-between">
+        <p><strong>PhD in Mathematics</strong>, Imperial College London</p>
+        <span className="text-gray-500 text-sm whitespace-nowrap">
+          Oct 2021 – Oct 2025
+        </span>
+      </div>
+      <p className="mt-1">
+        Research in Differential Geometry under Marie-Amélie Lawn and Steven Sivek.<br/>
+        Thesis examined by Simon Donaldson and Simon Salamon.
+      </p>
+    </div>
+
+    <div className="flex justify-between">
+      <p><strong>MASt in Pure Mathematics</strong>, University of Cambridge</p>
+      <span className="text-gray-500 text-sm whitespace-nowrap">
+        Sept 2020 – June 2021
+      </span>
+    </div>
+
+    <div className="flex justify-between">
+      <p><strong>Bachelor's Degree in Mathematics</strong>, Autonomous University of Barcelona</p>
+      <span className="text-gray-500 text-sm whitespace-nowrap">
+        Sept 2015 – June 2020
+      </span>
+    </div>
+
+    <div className="flex justify-between">
+      <p><strong>Bachelor's Degree in Physics</strong>, Autonomous University of Barcelona</p>
+      <span className="text-gray-500 text-sm whitespace-nowrap">
+        Sept 2015 – June 2020
+      </span>
+    </div>
+
+  </div>
+</section>
 
       <section>
         <h2 className="text-2xl font-serif font-semibold mb-4">Publications</h2>

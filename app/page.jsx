@@ -25,8 +25,8 @@ export default function Home() {
             Examined by Simon Donaldson and Simon Salamon.
           </p>
           <p><strong>MASt in Pure Mathematics</strong>, University of Cambridge (2020–2021)</p>
-          <p><strong>BSc Mathematics</strong>, Autonomous University of Barcelona (2015–2020)</p>
-          <p><strong>BSc Physics</strong>, Autonomous University of Barcelona (2015–2020)</p>
+          <p><strong>BSc Mathematics</strong>, Universitat Aut\`{o}noma de Barcelona (2015–2020)</p>
+          <p><strong>BSc Physics</strong>, Universitat Aut\`{o}noma de Barcelona (2015–2020)</p>
         </div>
       </section>
 
@@ -47,7 +47,7 @@ export default function Home() {
           </li>
           <li>
             <a href="https://doi.org/10.25560/124245" className="hover:underline">
-              Special spinors in generalised spin geometry
+              Special Spinors in Generalised Spin Geometry
             </a>
             <div className="text-sm text-gray-600">PhD thesis, 2025</div>
           </li>
@@ -68,6 +68,18 @@ export default function Home() {
               Generalised Killing Spinors on Three-Dimensional Lie Groups
             </a>
             <div className="text-sm text-gray-600">Manuscripta Mathematica, 2025</div>
+          </li>
+          <li>
+            <a href="https://www.sciencedirect.com/science/article/pii/S092622452500066X" className="hover:underline">
+              Generalised Spinʳ Structures on Homogeneous Spaces
+            </a>
+            <div className="text-sm text-gray-600">Differential Geometry and its Applications, 2025</div>
+          </li>
+          <li>
+            <a href="https://link.intlpress.com/JDetail/2014067776130486274" className="hover:underline">
+              New examples of translating solitons in generalised Robertson-Walker geometries
+            </a>
+            <div className="text-sm text-gray-600">Asian Journal of Mathematics, 2025</div>
           </li>
         </ul>
       </section>

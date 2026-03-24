@@ -14,7 +14,7 @@ export default function Home() {
         <p className="text-gray-800">
           <strong>Postdoctoral researcher</strong>, KU Leuven, Belgium (Nov 2025 – present)
         </p>
-      </section>
+      </section> 
 
       <section>
         <h2 className="text-2xl font-serif font-semibold mb-4">Education</h2>

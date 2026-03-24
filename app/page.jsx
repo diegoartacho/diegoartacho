@@ -41,7 +41,7 @@ export default function Home() {
     </div>
 
     <div className="flex justify-between">
-      <p><strong>MASt in Pure Mathematics</strong>, University of Cambridge</p>
+      <p><strong>Master's in Pure Mathematics (Part III)</strong>, University of Cambridge</p>
       <span className="text-gray-500 text-sm whitespace-nowrap">
         Sept 2020 – June 2021
       </span>

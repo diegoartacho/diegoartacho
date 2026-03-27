@@ -10,7 +10,7 @@ export default function Home() {
       </section>
 
       <section>
-  <h2 className="text-2xl font-serif font-semibold mb-4">Experience</h2>
+  <h2 className="text-2xl font-serif font-semibold mb-4">Positions</h2>
 
   <div className="flex justify-between">
     <p className="text-gray-800">

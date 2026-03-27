@@ -82,22 +82,10 @@ export default function Home() {
         <h2 className="text-2xl font-serif font-semibold mb-4">Publications</h2>
         <ul className="space-y-4">
           <li>
-            <a href="https://arxiv.org/abs/2512.01620" className="hover:underline">
-              On the stability of Einstein metrics carrying a special twisted spinor
-            </a>
-            <div className="text-sm text-gray-600">Preprint, 2025</div>
-          </li>
-          <li>
             <a href="https://doi.org/10.1016/j.jmaa.2025.130088" className="hover:underline">
               Killing Mean Curvature Solitons from Riemannian Submersions
             </a>
             <div className="text-sm text-gray-600">Journal of Mathematical Analysis and Applications, 2026</div>
-          </li>
-          <li>
-            <a href="https://doi.org/10.25560/124245" className="hover:underline">
-              Special Spinors in Generalised Spin Geometry
-            </a>
-            <div className="text-sm text-gray-600">PhD thesis, 2025</div>
           </li>
           <li>
             <a href="https://doi.org/10.1142/S0129167X25500120" className="hover:underline">
@@ -128,6 +116,30 @@ export default function Home() {
               New examples of translating solitons in generalised Robertson-Walker geometries
             </a>
             <div className="text-sm text-gray-600">Asian Journal of Mathematics, 2025</div>
+          </li>
+        </ul>
+      </section>
+
+      <section>
+        <h2 className="text-2xl font-serif font-semibold mb-4">Preprints</h2>
+        <ul className="space-y-4">
+          <li>
+            <a href="https://arxiv.org/abs/2512.01620" className="hover:underline">
+              On the stability of Einstein metrics carrying a special twisted spinor
+            </a>
+            <div className="text-sm text-gray-600">Preprint, 2025</div>
+          </li>
+        </ul>
+      </section>
+
+      <section>
+        <h2 className="text-2xl font-serif font-semibold mb-4">Thesis</h2>
+        <ul className="space-y-4">
+          <li>
+            <a href="https://doi.org/10.25560/124245" className="hover:underline">
+              Special Spinors in Generalised Spin Geometry
+            </a>
+            <div className="text-sm text-gray-600">PhD thesis, 2025</div>
           </li>
         </ul>
       </section>

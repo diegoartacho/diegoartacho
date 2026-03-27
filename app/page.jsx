@@ -62,14 +62,15 @@ export default function Home() {
     </div>
 
     <div className="flex justify-between">
-      <p><strong>Bachelor's Degree in Mathematics</strong>, Autonomous University of Barcelona</p>
+      <p><strong>Bachelor's Degree in Mathematics</strong>, Universitat Autònoma de Barcelona
+</p>
       <span className="text-gray-500 text-sm whitespace-nowrap">
         Sept 2015 – June 2020
       </span>
     </div>
 
     <div className="flex justify-between">
-      <p><strong>Bachelor's Degree in Physics</strong>, Autonomous University of Barcelona</p>
+      <p><strong>Bachelor's Degree in Physics</strong>, Autonomous Universitat Autònoma de Barcelona</p>
       <span className="text-gray-500 text-sm whitespace-nowrap">
         Sept 2015 – June 2020
       </span>

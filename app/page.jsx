@@ -3,17 +3,25 @@ export default function Home() {
     <div className="space-y-16">
 
       <section>
-        <h2 className="text-2xl font-serif font-semibold mb-4">About</h2>
-        <p className="leading-7 text-gray-800 max-w-2xl">
-          I am a postdoctoral researcher in the Geometry group at KU Leuven, working with Joeri van der Veken. 
+  <h2 className="text-2xl font-serif font-semibold mb-4">About</h2>
 
-          Previously, I completed my PhD at Imperial College London under the supervision of Marie-Amélie Lawn and Steven Sivek. My thesis was examined by Sir Simon Donaldson and Simon Salamon, and was awarded the Yael Naim Dowker Prize for the best mathematics PhD thesis.
-          
-          My research lies in differential geometry, with a focus on spin geometry, homogeneous spaces, and special spinors. I am also interested in teaching and student mentoring. 
-          
-          Outside mathematics, I enjoy reading, squash, and chess (although I am a terrible player).
-        </p>
-      </section>
+  <p className="leading-7 text-gray-800 max-w-2xl mb-4">
+    I am a postdoctoral researcher in the Geometry group at KU Leuven, working with Joeri van der Veken. 
+  </p>
+
+  <p className="leading-7 text-gray-800 max-w-2xl mb-4">
+    Previously, I completed my PhD at Imperial College London under the supervision of Marie-Amélie Lawn and Steven Sivek. My thesis was examined by Sir Simon Donaldson and Simon Salamon, and was awarded the Yael Naim Dowker Prize for the best mathematics PhD thesis.
+  </p>
+
+  <p className="leading-7 text-gray-800 max-w-2xl mb-4">
+    My research lies in differential geometry, with a focus on spin geometry, homogeneous spaces, and special spinors. I am also interested in teaching and student mentoring. 
+  </p>
+
+  <p className="leading-7 text-gray-800 max-w-2xl">
+    Outside mathematics, I enjoy reading, squash, and chess (although I am a terrible player).
+  </p>
+</section>
+
 
       <section>
   <h2 className="text-2xl font-serif font-semibold mb-4">Positions</h2>

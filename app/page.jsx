@@ -50,7 +50,7 @@ export default function Home() {
       </div>
       <p className="mt-1">
         Research in Differential Geometry under Marie-Amélie Lawn and Steven Sivek.<br/>
-        Thesis examined by Simon Donaldson and Simon Salamon.
+        Thesis examined by Sir Simon Donaldson and Simon Salamon.
       </p>
     </div>
 

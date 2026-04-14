@@ -151,6 +151,15 @@ export default function Home() {
 
     <li>
       <div className="flex justify-between">
+        <strong>Stability of Einstein metrics from the spinorial viewpoint</strong>
+        <span className="text-gray-500 text-sm">April 2026</span>
+      </div>
+      <div className="italic">ULB Geometry Seminar. Brussels, Belgium.</div>
+      <a href="https://geometry.ulb.ac.be/ulb-geometry-resaerch-seminar/" className="text-sm text-gray-600 hover:underline">Link to event site</a>
+    </li>
+
+    <li>
+      <div className="flex justify-between">
         <strong>New spinorial criteria for the stability of Einstein metrics</strong>
         <span className="text-gray-500 text-sm">March 2026</span>
       </div>

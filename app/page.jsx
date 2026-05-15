@@ -151,6 +151,15 @@ export default function Home() {
 
     <li>
       <div className="flex justify-between">
+        <strong>Stability of Einstein metrics through new spinorial Bochner identities</strong>
+        <span className="text-gray-500 text-sm">April 2026</span>
+      </div>
+      <div className="italic">Seminar of the Institute of Geometry and Topology. Stuttgart, Germany.</div>
+      <a href="https://www.igt.uni-stuttgart.de/aktuelles/Vortrag-von-Diego-Artacho-de-Obeso-PhD-KU-Leuven/" className="text-sm text-gray-600 hover:underline">Link to event site</a>
+    </li>
+
+    <li>
+      <div className="flex justify-between">
         <strong>Stability of Einstein metrics from the spinorial viewpoint</strong>
         <span className="text-gray-500 text-sm">April 2026</span>
       </div>
